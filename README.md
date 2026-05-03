@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves contributing to open source projects and building innovative solutions.
+ I am extremely passionate about the development of AI agents and multi-agent systems and I'd love to contribute to open-source projects.
 
 ## 📊 GitHub Stats
 
