@@ -9,13 +9,13 @@
 
 ## 🚀 About Me
 
- I am extremely passionate about the development of AI agents and multi-agent systems and I'd love to contribute to open-source projects.
+I am extremely passionate about the development of AI agents and multi-agent systems and I'd love to contribute to open-source projects.
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realcarsonterry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=realcarsonterry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=realcarsonterry&theme=tokyonight&hide_border=true)
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realcarsonterry&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realcarsonterry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=realcarsonterry&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=realcarsonterry&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -67,6 +67,6 @@
   
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![](https://komarev.com/ghpvc/?username=realcarsonterry&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=realcarsonterry&color=blueviolet)
 
 </div>
