@@ -37,12 +37,7 @@ I am an Undergraduate student majoring in CS, and I have a strong interest and p
 
 </div>
 
-## 🎯 Recent Contributions
 
-- 🔧 Fixed Korean/CJK terminal input issues in [gstack](https://github.com/garrytan/gstack/pull/1297)
-- 🎨 Improved face merge functionality in [Immich](https://github.com/immich-app/immich/pull/28194)
-- 📚 Fixed documentation links in [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x/pull/1758)
-- 🔗 Enhanced README navigation in [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/pull/4875)
 
 ## 💻 Tech Stack
 
@@ -65,7 +60,7 @@ I am an Undergraduate student majoring in CS, and I have a strong interest and p
 
 <div align="center">
   
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realcarsonterry&color=blueviolet)
 
