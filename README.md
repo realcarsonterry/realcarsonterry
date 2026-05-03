@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am extremely passionate about the development of AI agents and multi-agent systems and I'd love to contribute to open-source projects.
+CS undergraduate with a strong passion for AI agents and multi-agent systems. Currently exploring the fascinating world of autonomous agents and building innovative chatbot solutions. Always eager to learn, contribute to open-source, and push the boundaries of what's possible with AI.
 
 ## 📊 GitHub Stats
 
