@@ -60,6 +60,6 @@ I am an Undergraduate student majoring in CS, and I have a strong interest and p
   
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=realcarsonterry&color=blueviolet)
+
 
 </div>
