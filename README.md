@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am an Undergraduate student majoring in CS, and I have a strong interest and passion for AI agents, multi-agent systems, and non-chat bots.Meanwhile, I’d be happy to get involved and contribute to some open-source projects. If we share similar interests, why not collaborate together 
+I am an Undergraduate student that have a strong interest and passion for AI agents, multi-agent systems, and non-chat bots.Meanwhile, I’d be happy to get involved and contribute to some open-source projects. If we share similar interests, why not collaborate together 
 
 ## 📊 GitHub Stats
 
