@@ -1,20 +1,65 @@
-<img src="assets/hero.svg" alt="Carson Terry · AI systems and agents" width="900">
+# Hi there, I'm Carson Terry 👋
 
-I build agent workflows that turn a brief into something you can run, inspect, and revise.
+<div align="center">
+  
 
-## Selected work
+</div>
 
-- **[BoHack · 讲界视频工坊](https://github.com/akechi0819-lgtm/knowledge-video-requirements)** · Founder & developer. An AI workbench that takes knowledge videos from brief to blueprint to rendered video. [Workbench redesign](https://github.com/akechi0819-lgtm/knowledge-video-requirements/pull/10) · [Worker orchestration](https://github.com/akechi0819-lgtm/knowledge-video-requirements/pull/11)
-- **[AgentMind](https://github.com/realcarsonterry/AgentMind)** · Async Python framework for coordinating agents, with Ollama for local inference and LiteLLM for hosted models.
-- **[AG2](https://github.com/ag2ai/ag2/pull/2548)** · Merged change that made disk caching optional and switched the default to in-memory caching.
+## 🚀 About Me
 
-**Research interests** · LLM infrastructure · Embodied AI · Mechanistic interpretability
+I am an Undergraduate student that have a strong interest and passion for AI agents, multi-agent systems, and non-chat bots.Meanwhile, I’d be happy to get involved and contribute to some open-source projects. If we share similar interests, why not collaborate together 
 
-## GitHub activity
+## 📊 GitHub Stats
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/activity-compact.svg">
-  <img src="assets/activity.svg" alt="GitHub contribution calendar with the last year of activity" width="900">
-</picture>
+<div align="center">
 
-> Build it. Trace how it works.
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=realcarsonterry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=realcarsonterry&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realcarsonterry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=realcarsonterry&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-realcarsonterry-181717?style=for-the-badge&logo=github)](https://github.com/realcarsonterry)
+
+</div>
+
+---
+
+<div align="center">
+  
+
+
+
+
+</div>
